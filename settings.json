@@ -1,0 +1,11 @@
+{
+	"token": "Main bot token",
+	"testToken": "Test bot token",
+	"dblToken": "Discord bot list token",
+	"sentry": "Sentry token",
+	"specialPeople": {
+		"93968063": "This user works for Polaris.",
+		"66592931": "This user is the Polaris developer.",
+		"Roblox id": "Desc string to be shown"
+	}
+}
