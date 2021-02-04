@@ -1,5 +1,7 @@
+
+const config = require('./config.json');'
 {
-	"token": "Main bot token",
+	"token": config.token,
 	"testToken": "Test bot token",
 	"dblToken": "Discord bot list token",
 	"sentry": "Sentry token",
